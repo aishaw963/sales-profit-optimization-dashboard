@@ -1,0 +1,5 @@
+.venv
+.env
+superstore.csv
+__pycache__/
+*.pyc
